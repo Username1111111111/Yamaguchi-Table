@@ -22,6 +22,7 @@
 - Table top part are moved by buttons and animated with vanilla JS
 
 ## Technologies Used
+- Gulp!
 - Vanilla JS animation of table moving Up and Down
 - SCSS
 - Flexbox
