@@ -2,8 +2,9 @@
 > Animated promo site with table
 > <p><a href="https://username1111111111.github.io/Yamaguchi-Table/">Live demo here</a></p>
 > <p>Or 👇:</p>
-> <a href="https://username1111111111.github.io/Yamaguchi-Table/">![QR](./_resources/yamaguchi-table.png)
-</a>
+<a href="https://username1111111111.github.io/Yamaguchi-Table/">
+ <img src="./_resources/yamaguchi-table.png">
+</a> 
 
 
 ## Table of Contents
