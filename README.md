@@ -1,5 +1,5 @@
 # Yamaguchi Table <img src="https://img.shields.io/badge/Status-Complete-green" style="vertical-align: middle;">
-> 
+> Animated promo site with table
 > <p><a href="https://username1111111111.github.io/Yamaguchi-Table/">Live demo here</a></p>
 > <p>Or 👇:</p>
 > <a href="https://username1111111111.github.io/Yamaguchi-Table/">![QR](./_resources/yamaguchi-table.png)
